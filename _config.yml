@@ -3,12 +3,12 @@
 title: Jekyll Theme - Lazy
 description: It is minimal and lazy!
 
-email: koko@rhyndo.com
-baseurl: "/jekyll-theme-lazy" # the subpath of your site, e.g. /blog
+email: ghotda@mail.bg
+baseurl: "/simple" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: kdankov
-github_username: kdankov
+twitter_username: ghotda
+github_username: ghotda
 
 future: true
 markdown: kramdown
